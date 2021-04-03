@@ -1,0 +1,18 @@
+.zone {
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    display: inline-block;
+  }
+  .boxes{
+    text-align: center;
+  }
+  .row1{
+      background-color: aquamarine;
+  }
+  .row2{
+      background-color: bisque;
+  }
+  .row3{
+      background-color: coral;
+  }
