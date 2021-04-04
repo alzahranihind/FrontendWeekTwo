@@ -1,17 +1,25 @@
 .outer{
    width: 600px;
    height: 600px;
-   background-color: aquamarine;  
+   background-color: aquamarine;
+   display: flex;
+   justify-content: center;
+   align-items: center;  
 }
 .container{
     width: 400px;
     height: 400px;
-    background-color: blueviolet;  
+    background-color: blueviolet; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 .inner{
     width:100px;
     height: 100px;
     background-color: burlywood; 
+    display: flex;
+    align-content: center;
 }
 /* 
 inner 
