@@ -2,24 +2,18 @@
    width: 600px;
    height: 600px;
    background-color: aquamarine;
-   display: flex;
-   justify-content: center;
-   align-items: center;  
+   
 }
 .container{
     width: 400px;
     height: 400px;
     background-color: blueviolet; 
-    display: flex;
-    justify-content: center;
-    align-items: center; 
 }
 .inner{
     width:100px;
     height: 100px;
     background-color: burlywood; 
-    display: flex;
-    align-content: center;
+   
 }
 /* 
 inner 
@@ -29,9 +23,16 @@ top: 20px;
 position: absolute;
 top: 20px;
 left: 20px;
+
 container 
 float: right;
 position: relative;
-outer
+display: flex;
+   justify-content: center;
+   align-items: center;  
 
+   outer
+display: flex;
+   justify-content: center;
+   align-items: center;  
 */
