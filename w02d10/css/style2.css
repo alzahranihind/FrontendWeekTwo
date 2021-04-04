@@ -1,0 +1,29 @@
+.outer{
+   width: 600px;
+   height: 600px;
+   background-color: aquamarine;  
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;  
+}
+.inner{
+    width:100px;
+    height: 100px;
+    background-color: burlywood; 
+}
+/* 
+inner 
+float: right;
+position: relative;  
+top: 20px;
+position: absolute;
+top: 20px;
+left: 20px;
+container 
+float: right;
+position: relative;
+outer
+
+*/
